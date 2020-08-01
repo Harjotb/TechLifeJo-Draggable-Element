@@ -1,0 +1,21 @@
+.Title {
+    font-weight: bold;
+    font-size: 16px;
+    padding-top: 30px;
+}
+
+.button {
+    font-size: 12px;
+    width: 100px;
+    color: black;
+    border: 2px solid black;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 650px;
+}
+
+.MainApp {
+    background-color: lightsalmon;
+    height: 1000px;
+}
